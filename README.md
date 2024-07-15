@@ -8,9 +8,7 @@ Welcome to my GitHub space. I experiment projects related to Data Engineering (D
 **Always up for discussion on**:  Dimensional Modeling, Data Lake Architecture,  Data Warehousing
 
 
-
-You can contact me with:
-- Email: [uvaranij.22@gmail.com](mailto:uvaranij.22@gmail.com)
+**Email**: [uvaranij.22@gmail.com](mailto:uvaranij.22@gmail.com)
 
 
 
