@@ -3,11 +3,6 @@
 
 Welcome to my GitHub space. I experiment projects related to Data Engineering (DE), Machine Learning (ML), and Large Language Models (LLMs).
 
-**Currently**
-- Senior Data Engineer @ Fractal.AI  
-- Pursuing Masters from IIT Kanpur (AI&ML)
-
-
 **What I Do** : My daily activities involve architecting data solutions on Microsoft Azure, providing businesses with efficient and scalable solutions.
 
 **Always up for discussion on**:  Dimensional Modeling, Data Lake Architecture,  Data Warehousing
