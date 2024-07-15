@@ -9,10 +9,9 @@ Welcome to my GitHub space. I experiment projects related to Data Engineering (D
 
 
 
-You can contact me on:
-- LinkedIn: [Uva Rani Jagadeesan](https://www.linkedin.com/in/uva-rani-jagadeesan-b8b381a2/)
+You can contact me with:
 - Email: [uvaranij.22@gmail.com](mailto:uvaranij.22@gmail.com)
-- Medium: [uva](https://medium.com/@uva)
+
 
 
 
